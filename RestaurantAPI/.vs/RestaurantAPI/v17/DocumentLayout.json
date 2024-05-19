@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantAPI",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+              "RelativeDocumentMoniker": "RestaurantAPI\\RestaurantAPI.csproj",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
+              "RelativeToolTip": "RestaurantAPI\\RestaurantAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T15:41:58.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
