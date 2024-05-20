@@ -24,3 +24,4 @@ C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\Restaur
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.pdb
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.genruntimeconfig.cache
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\ref\RestaurantAPI.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.sourcelink.json
