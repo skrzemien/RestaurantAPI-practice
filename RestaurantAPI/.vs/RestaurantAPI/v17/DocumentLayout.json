@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\weatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\restaurantapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\entities\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\entities\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\iweatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\iweatherforecastservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\restaurantseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\migrations\\20240521170739_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\migrations\\20240521170739_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|c:\\users\\skrzemien\\documents\\github\\restaurantapi-practice\\restaurantapi\\restaurantapi\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7E2904-7AB4-43EF-8E60-715CBB5B05D1}|RestaurantAPI\\RestaurantAPI.csproj|solutionrelative:restaurantapi\\entities\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "RestaurantAPI\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-20T17:01:38.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
-              "RelativeToolTip": "RestaurantAPI\\Startup.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwBsAAABVAAAA",
+              "DocumentIndex": 3,
+              "Title": "20240521170739_Init2.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Migrations\\20240521170739_Init2.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Migrations\\20240521170739_Init2.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Migrations\\20240521170739_Init2.cs",
+              "RelativeToolTip": "RestaurantAPI\\Migrations\\20240521170739_Init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:54:50.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IWeatherForecastService.cs",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\IWeatherForecastService.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\IWeatherForecastService.cs",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\IWeatherForecastService.cs",
-              "RelativeToolTip": "RestaurantAPI\\IWeatherForecastService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:52:35.737Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecastService.cs",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\WeatherForecastService.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\WeatherForecastService.cs",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\WeatherForecastService.cs",
-              "RelativeToolTip": "RestaurantAPI\\WeatherForecastService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:43:11.63Z",
+              "WhenOpened": "2024-05-21T17:07:39.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "RestaurantAPI\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAADwvyYAAAAtAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Startup.cs",
+              "RelativeToolTip": "RestaurantAPI\\Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T16:37:51.515Z",
+              "WhenOpened": "2024-05-21T17:05:06.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RestaurantAPI.csproj",
-              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-              "RelativeDocumentMoniker": "RestaurantAPI\\RestaurantAPI.csproj",
-              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantAPI.csproj",
-              "RelativeToolTip": "RestaurantAPI\\RestaurantAPI.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-19T15:41:58.463Z",
+              "DocumentIndex": 2,
+              "Title": "RestaurantSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantSeeder.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\RestaurantSeeder.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\RestaurantSeeder.cs",
+              "RelativeToolTip": "RestaurantAPI\\RestaurantSeeder.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAYwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T16:50:56.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Dish.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Entities\\Dish.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Dish.cs",
+              "RelativeToolTip": "RestaurantAPI\\Entities\\Dish.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:58:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "RelativeToolTip": "RestaurantAPI\\Entities\\RestaurantDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:02:52.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Entities\\Address.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Address.cs",
+              "RelativeToolTip": "RestaurantAPI\\Entities\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:57:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "RestaurantAPI\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\skrzemien\\Documents\\GitHub\\RestaurantAPI-practice\\RestaurantAPI\\RestaurantAPI\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "RestaurantAPI\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:51:19.49Z",
               "EditorCaption": ""
             }
           ]
