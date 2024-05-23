@@ -61,3 +61,12 @@ C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\Restaur
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\Restaura.740C9932.Up2Date
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\nlog.config
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\NLog.Web.AspNetCore.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\skrzemien\Documents\GitHub\RestaurantAPI-practice\RestaurantAPI\RestaurantAPI\obj\Debug\net5.0\RestaurantAPI.MvcApplicationPartsAssemblyInfo.cs
